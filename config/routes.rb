@@ -1,4 +1,6 @@
 SuggestMe::Application.routes.draw do
+  get "welcome/index"
+
   resources :activities
 
   # The priority is based upon order of creation:
