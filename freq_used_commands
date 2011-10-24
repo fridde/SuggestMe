@@ -1,0 +1,2 @@
+git commit --all -m "Text here";  
+git push origin master; 
